@@ -1,0 +1,15 @@
+Operators can be divided into three types
+                                1.Unary Operators
+                                            - One Operand (i) Logical NOT
+                                                          (ii) Increament
+                                                           (iii) Decreament
+
+                                2.Binary Operators
+                                                -Two Operands (i) Arithmetic Operators
+                                                               (ii) Relational Operators
+                                                                (iii) Logical AND
+                                                                (iv) Logical OR
+                                3.Ternary Operators
+                                                -Three Operands (i)Conditional Operators
+                                4.Instance Operators
+                               

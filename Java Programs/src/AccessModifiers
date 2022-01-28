@@ -1,0 +1,19 @@
+Access Modifier - it implies the behaviour of the class,block,enum,method,interfaces to JVM . For class level modifier it states whether 
+the class is accessible or not , objects can be created for class or not , child class can b created or not.
+
+   Access Modifier for Outer Class-
+   				(i)public 
+   				(ii)default
+   				(iii)abstract
+   				(iv)final
+   				(v)strictfp
+   				
+ Access Modifier for Inner Class-
+ 				(i)public 
+   				(ii)default
+   				(iii)abstract
+   				(iv)final
+   				(v)strictfp
+   				(vi)private
+   				(vii)protected
+   				(viii)static

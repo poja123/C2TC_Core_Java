@@ -1,0 +1,17 @@
+Flow Control Statements:
+
+      Java provides three types of control flow statements.
+
+                           (i)Decision Making statements / Selection Statements
+                                  (a) if statements 
+                                  (b) switch statement
+                            (ii) Loop statements /Iterative Statements
+                                    (a)do while loop
+                                    (b)while loop
+                                    (c)for loop
+                                    (d)for-each loop
+                            (iii) Jump statements / Transfer Statements
+                                     (a)break statement 
+                                     (b)continue statement
+                                     (c)try/catch/finally statement
+                                     (d) Assert statement
